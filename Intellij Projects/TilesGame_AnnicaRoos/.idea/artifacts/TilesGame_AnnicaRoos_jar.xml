@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TilesGame_AnnicaRoos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TilesGame_AnnicaRoos_jar</output-path>
+    <root id="archive" name="TilesGame_AnnicaRoos.jar">
+      <element id="module-output" name="TilesGame_AnnicaRoos" />
+      <element id="dir-copy" path="$PROJECT_DIR$/../TilesGame/src" />
+    </root>
+  </artifact>
+</component>

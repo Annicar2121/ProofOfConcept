@@ -1,0 +1,12 @@
+##Scrabble
+
+A GUI based Scrabble game that draws the board and tiles as they are clicked, and features
+a gameloop for triggering player/computer turns.
+
+All classes have comments within them and above methods that describe and explain
+what each does, and what components they rely upon. 
+
+###Known Errors
+This is not a fully functional game, the computer player was never fully
+implemented. However the GUI works reasonably well, and this project is mostly
+meant to demonstrate competence with UI and GUI interfaces. 

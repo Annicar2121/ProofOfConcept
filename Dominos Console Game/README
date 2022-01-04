@@ -1,0 +1,7 @@
+##Console Based Dominos
+
+A Simple Dominos Game to be played within the console/terminal
+
+Utilizes different classes for seperate parts of the game, such as the board representation, 
+the player, a tray to be used by the player, a domino class, boneyard, and the loop for the console that handles
+game operations.
