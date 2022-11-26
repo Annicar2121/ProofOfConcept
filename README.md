@@ -5,5 +5,5 @@ They are a proof of concept for coding, and should give you and idea how I appro
 
 The projects done in the Intellij IDE are full project folders, while the ones done in Unity have been stripped of everything but the script files. 
 
-Most scripts/classes have comments littered throughout that desribe specif classes, attributes, and what each method does. 
+Most scripts/classes have comments littered throughout that desribe specific classes, attributes, and what each method does. 
 There are also README files in each folder that should describe what the code is. 
