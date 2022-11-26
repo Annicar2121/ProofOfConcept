@@ -1,4 +1,4 @@
-# ProofOfConcept
+# Proof Of Concept
 
 This repository includes a few coding projects from school, and a few done as hobbies. 
 They are a proof of concept for coding, and should give you and idea how I approach programming.
